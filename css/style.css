@@ -28,6 +28,9 @@
     border-collapse: collapse;
     width: 100%;
   }
+  td {
+    width: 96px;
+  }
   td, th {
     text-align: center;
     border-bottom: solid 1px #ccc;
@@ -41,7 +44,7 @@
   th:first-child, td:first-child {
     color: black;
     text-align: left;
-    width: 70%;
+    width: auto;
   }
   th {
     font-size: 16px;
