@@ -415,7 +415,7 @@ body {
   webkit-tap-highlight-color: #222222;
 }
 
-/* Marabu Styles */
+  /* Marabu Styles */
 
   * {
     box-sizing: border-box;
@@ -477,9 +477,15 @@ body {
   }
 
   @media screen and (max-width: 768px) {
+    .compchart {
+      padding: 0 20px;
+    }
     h1 {
       margin-left: 20px;
       font-size: 26px;
+    }
+    h2 {
+      font-size: 22px;
     }
     tr {
       display: -webkit-box;
@@ -502,11 +508,5 @@ body {
     }
     th:first-child {
       display: none;
-    }
-  }
-
-  @media screen and (max-width: 768px) {
-    .compchart {
-      padding: 0 20px;
     }
   }
