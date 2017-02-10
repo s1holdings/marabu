@@ -428,6 +428,9 @@ body {
     height: 60px;
     width: 60px;
   }
+  .indent {
+    margin-left: 25px;
+  }
   .p {
     text-align: center;
     font-size: 13px;
