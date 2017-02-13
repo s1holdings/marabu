@@ -516,6 +516,10 @@ body {
     .visible-xs {
       display: table-row;
     }
+
+    .visible-xs > td:nth-child(2) {
+      background-color: #fff;
+    }
     td:first-child,
     th:first-child {
       display: none;
