@@ -472,6 +472,10 @@ body {
   .visible-xs {
     display: none;
   }
+  .whitetxt {
+    color: #fff;
+  }
+
   
   @media screen and (min-width: 769px) {
     th.headertext {
