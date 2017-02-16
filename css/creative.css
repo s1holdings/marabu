@@ -472,6 +472,10 @@ body {
   .visible-xs {
     display: none;
   }
+  .whitebut {
+    background-color: #fff;
+    color: #e42219;
+  }
   .whitetxt {
     color: #fff !important;
   }
