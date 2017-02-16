@@ -473,7 +473,7 @@ body {
     display: none;
   }
   .whitetxt {
-    color: #fff;
+    color: #fff !important;
   }
 
   
