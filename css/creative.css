@@ -431,6 +431,10 @@ body {
   .indent {
     margin-left: 25px;
   }
+  .maricon {
+    height: 70px;
+    width: 70px;
+  }
   .p {
     text-align: center;
     font-size: 13px;
