@@ -443,6 +443,9 @@ body {
     font-size: 13px;
     padding-top: 10px;
   }
+  .padhead {
+    padding: 15px 0 20px;
+  }
   table {
     border-collapse: collapse;
     padding: 20px;
