@@ -423,6 +423,15 @@ body {
   #appliquids > .container > .row > .col-lg-3.col-md-3 > div > h3 {
     margin-top: 0 !important;
   }
+  .git {
+    margin-bottom: 30px;
+  }
+  .git a {
+    color: #fff;
+  }
+  .git a:hover {
+    color: #2672ec;
+  }
   h1.charthead {
     display: inline-block;
     margin-left: 20px;
